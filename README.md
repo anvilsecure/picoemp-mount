@@ -49,4 +49,4 @@ The Ender-3 V3 SE already has a precise, motorized X/Y/Z stage, so this mount re
 
 ## License
 
-The STL design and images are released under the [MIT License](LICENSE). The Anvil Secure name and logo are not covered by this licence.
+The STL design and images are released under the [MIT License](LICENSE).
